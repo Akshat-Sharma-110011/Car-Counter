@@ -18,7 +18,7 @@ pip install numpy opencv-python ultralytics cvzone filterpy
 ## 🔧 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/car-counter.git
+   git clone https://github.com/Akshat-Sharma-110011/car-counter.git
    cd car-counter
    ```
 2. Download the YOLOv8 model weights:
